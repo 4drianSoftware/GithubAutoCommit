@@ -58,6 +58,7 @@ namespace GithubAutoCommit
             }
             if (uinp == 'n')
             {
+                Console.Clear();
                 GetInfo();
             }
         }
